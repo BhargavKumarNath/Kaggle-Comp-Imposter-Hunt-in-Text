@@ -1,0 +1,12 @@
+data/
+
+notebooks/results_fold_1
+notebooks/results_fold_2
+notebooks/results_fold_3
+notebooks/results_fold_4
+notebooks/results_fold_5
+notebooks/temp_fold_1
+notebooks/temp_fold_2
+notebooks/temp_fold_3
+notebooks/temp_fold_4
+notebooks/temp_fold_5
